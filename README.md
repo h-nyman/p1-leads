@@ -1,7 +1,7 @@
 # Micro CRM Leads (Project 1)
 
 ## Live Deployment
-Live: YOUR_RENDER_URL // The public URL where the live application can be accessed (from Render).
+Live: https://p1-leads-ee7n.onrender.com
 
 ## Run Locally
 
