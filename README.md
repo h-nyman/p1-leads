@@ -21,7 +21,7 @@ Open http://localhost:3000/
 ## Windows and macOS Notes
 Open VS Code terminal. The commands are the same on both platforms.
 
-## Reflection (Required for Marking)
+## Reflection
 I have built a Micro CRM Leads Tracker. In this tracker, you can add leads, search through the leads by using search terms, filter the leads by status and update them. The leads are stored in JSON files. The app is deployed to Render with ephemeral storage, that I’ve learned means that the data is lost when the service redeploys or restarts. 
 
 I have learned to build a simple full stack CRUD-app. I now understand how to declare express routes as http handlers, and add logic such as data validation and persistence. I also realised that vanilla JS, HTML and CSS gets you very far.
